@@ -1,0 +1,1 @@
+{"name":"cartivo-custom-mcp","version":"0.1.0","private":true,"type":"module","engines":{"node":">=22.18.0"},"scripts":{"build":"tsc","typecheck":"tsc --noEmit","test":"node --test test/*.test.ts","start":"node dist/index.js"},"dependencies":{"@modelcontextprotocol/sdk":"1.29.0","zod":"4.4.3"},"devDependencies":{"@types/node":"22.20.0","typescript":"5.9.3"}}
